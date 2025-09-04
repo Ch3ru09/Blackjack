@@ -4,3 +4,5 @@
 Bugs:
 
 - [ ] Sometimes (once) it fails to register a new card and doesn't get added to the total
+
+## To run:
